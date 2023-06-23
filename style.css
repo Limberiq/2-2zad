@@ -1,0 +1,14 @@
+button {
+    padding: 10px;
+    background-color: rgb(83, 83, 77);
+    border: 1px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 10px;
+}
+  
+#result {
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+} 
